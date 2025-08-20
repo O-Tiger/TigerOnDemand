@@ -50,8 +50,3 @@ Este projeto está sob a licença MIT.
 
 
 ---
-
-## 📌 Esse modelo já tem:
-- Tecnologias
-- Setup rápido
-- Roadmap pra mostrar evolução
