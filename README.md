@@ -38,10 +38,10 @@ Um sistema completo para **gerenciamento de pedidos de projetos**, integrado com
 
 ## 🐾 Roadmap
 
- Melhorar sistema de busca e filtro no painel.
- Migrar mensagens do webhook para embed editável via bot.
- Adicionar autenticação para painel administrativo.
- Suporte a notificações via WhatsApp.
+- ✅ Adicionar autenticação para painel administrativo.
+- ✅ Migrar mensagens do webhook para embed editável via bot.
+- ✅ Melhorar sistema de busca e filtro no painel.
+- ❌ Suporte a notificações via WhatsApp.
 
 ---
 
